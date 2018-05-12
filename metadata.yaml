@@ -1,0 +1,34 @@
+_repo: The-Word-Hoosier--John-FinleyIndiana-Historical-Society-Publications-Volume-IV-Number-2_35634
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Wrigley, Sarah A. Finley
+    alias: Wrigley, Sarah A.
+    gutenberg_agent_id: '37785'
+    url: http://www.gutenberg.org/2009/agents/37785
+  - agent_name: Dunn, Jacob Piatt
+    alias: Dunn, J. P. (Jacob Piatt)
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '37784'
+    url: http://www.gutenberg.org/2009/agents/37784
+description: ''
+gutenberg_issued: '2011-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hoosier (Nickname)'
+- !lcc 'F516'
+- !lcsh 'Finley, John, 1797-1866'
+title: 'The Word Hoosier; John Finley
+
+  Indiana Historical Society Publications, Volume IV, Number 2'
+url: http://www.gutenberg.org/ebooks/35634
